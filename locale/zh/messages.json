@@ -132,6 +132,8 @@
   "blm.sharpcast.suggestions.dropped-sharpcasts.why": "{0, plural, one {# 次激情咏唱} other {# 次激情咏唱}}buff过期.",
   "blm.sharpcast.suggestions.sharpcasted-scathes.content": "你把<0/>用在了<1/>上。通常情况下让激情咏唱白白浪费也比用在崩溃上要好。",
   "blm.sharpcast.suggestions.sharpcasted-scathes.why": "{0, plural, one {# 次激情咏唱} other {# 次激情咏唱}} 用在了 <0/> 上。",
+  "blm.swiftcast.statistic.info": "",
+  "blm.swiftcast.statistic.title": "",
   "blm.thunder.applied": "时间",
   "blm.thunder.checklist.dots.description": "你的<0/>DoT伤害和<1/>特性的伤害对总输出量影响非常大，请尽量保持DoT常驻。",
   "blm.thunder.checklist.dots.name": "保持<0/>DoT常驻",

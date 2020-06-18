@@ -8,6 +8,7 @@ import Leylines from './Leylines'
 import NotCasting from './NotCasting'
 import Sharpcast from './Sharpcast'
 import Thunder from './Thunder'
+import Swiftcast from './Swift'
 
 export default [
 	Gauge,
@@ -20,4 +21,5 @@ export default [
 	NotCasting,
 	Sharpcast,
 	Thunder,
+	Swiftcast,
 ]

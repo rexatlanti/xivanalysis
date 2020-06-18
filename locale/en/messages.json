@@ -132,6 +132,8 @@
   "blm.sharpcast.suggestions.dropped-sharpcasts.why": "{0, plural, one {# Sharpcast} other {# Sharpcasts}} expired.",
   "blm.sharpcast.suggestions.sharpcasted-scathes.content": "You consumed at least one <0/> by using <1/>. While it's better than letting the buff expire, you should try to avoid doing so.",
   "blm.sharpcast.suggestions.sharpcasted-scathes.why": "{0, plural, one {# Sharpcast was} other {# Sharpcasts were}} consumed by <0/>.",
+  "blm.swiftcast.statistic.info": "The number of Swiftcasts used versus the number of possible Swiftcast uses. If Swiftcast is not needed for movement or emergency purposes within the next 60s, consider weaving it for an instant longer than GCD cast for a small gain.",
+  "blm.swiftcast.statistic.title": "Used Sharpcasts",
   "blm.thunder.applied": "Applied",
   "blm.thunder.checklist.dots.description": "Your <0/> DoT contributes significantly to your overall damage, both on its own, and from additional <1/> procs. Try to keep the DoT applied.",
   "blm.thunder.checklist.dots.name": "Keep your <0/> DoT up",

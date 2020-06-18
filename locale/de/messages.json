@@ -132,6 +132,8 @@
   "blm.sharpcast.suggestions.dropped-sharpcasts.why": "{0, plural, one {# Anwendung} other {# Anwendungen}} von Augmentierung versäumt.",
   "blm.sharpcast.suggestions.sharpcasted-scathes.content": "Du hast mindestens ein <0/> durch die Anwendung von <1/> verbraucht. Wenn auch besser, als den Buff auslaufen zu lassen, solltest du es dennoch allgemein verhindern.",
   "blm.sharpcast.suggestions.sharpcasted-scathes.why": "{0, plural, one {# Anwendung} other {# Anwendungen}} von Augmentierung durch <0/> verschlungen.",
+  "blm.swiftcast.statistic.info": "",
+  "blm.swiftcast.statistic.title": "",
   "blm.thunder.applied": "",
   "blm.thunder.checklist.dots.description": "",
   "blm.thunder.checklist.dots.name": "",
